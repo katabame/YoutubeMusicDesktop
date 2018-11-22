@@ -1,0 +1,19 @@
+{
+  "name": "YouTubeMusicDesktop",
+  "version": "1.0.0",
+  "description": "Desktop player for YouTube Music",
+  "main": "app/main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "katabame",
+  "license": "AGPLv3",
+  "dependencies": {
+    "discord-rich-presence": "0.0.7"
+  },
+  "devDependencies": {
+    "electron": "^3.0.10",
+    "electron-packager": "^12.2.0"
+  }
+}
